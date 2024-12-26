@@ -8,7 +8,7 @@ Zephyr is a lightweight, durable, and versatile drone designed for stability, ma
 - **Efficient Propulsion**: Four arms equipped with brushless motors and two-blade propellers ensure maximum flight time and stability.
 - **Enhanced Capabilities**: Designed for diverse use cases, from monitoring to autonomous operations.
 
-![Zephyr Drone](https://github.com/user-attachments/assets/0aa873e7-1434-44ec-a303-b79448b3f561)  
+![WhatsApp Image 2024-12-26 at 02 22 25_146dde55](https://github.com/user-attachments/assets/0843fdb5-8438-4eb9-ae1b-8371b0f1b5df)
 ![Zephyr in Action](https://github.com/user-attachments/assets/c92ed451-4680-48d8-9ecc-6158a53d30d5)
 
 ### Schematic
