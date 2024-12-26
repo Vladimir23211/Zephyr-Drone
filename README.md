@@ -16,7 +16,7 @@ Zephyr is a lightweight, durable, and versatile drone designed for stability, ma
 
 ![Zephyr Schematic](https://github.com/user-attachments/assets/9630f589-e46a-48ed-8c8e-9ae53c4a65cf)
 
-### Batery Configuration
+### Batery Configuration 2S
 
 ![WhatsApp Image 2024-12-26 at 03 18 57_053c394a](https://github.com/user-attachments/assets/76b0476a-1c51-4ab3-950f-1f958d333802)
 
